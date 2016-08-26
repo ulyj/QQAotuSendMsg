@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/22 15:51:44.316.pas,C:\Users\liuyj-f\Documents\Borland Studio Projects\Unit1.pas=C:\Users\liuyj-f\Desktop\新建文件夹\Unit1.pas</Transaction>
+    <Transaction>2016/06/22 15:51:44.316.dfm,C:\Users\liuyj-f\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\liuyj-f\Desktop\新建文件夹\Unit1.dfm</Transaction>
+    <Transaction>2016/06/22 15:51:44.925.bdsproj,C:\Users\liuyj-f\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\liuyj-f\Desktop\新建文件夹\Project1.bdsproj</Transaction>
+    <Transaction>2016/08/18 10:22:31.519.pas,G:\刘延军\tools\QQ自动发消息\Unit2.pas=G:\刘延军\tools\QQ自动发消息\TFeedbackFrm.pas</Transaction>
+    <Transaction>2016/08/18 10:22:31.519.dfm,G:\刘延军\tools\QQ自动发消息\Unit2.dfm=G:\刘延军\tools\QQ自动发消息\TFeedbackFrm.dfm</Transaction>
+    <Transaction>2016/08/18 10:22:49.903.pas,G:\刘延军\tools\QQ自动发消息\TFeedbackFrm.pas=G:\刘延军\tools\QQ自动发消息\FeedbackFrm.pas</Transaction>
+    <Transaction>2016/08/18 10:22:49.903.dfm,G:\刘延军\tools\QQ自动发消息\TFeedbackFrm.dfm=G:\刘延军\tools\QQ自动发消息\FeedbackFrm.dfm</Transaction>
+    <Transaction>2016/08/18 10:27:13.103.pas,G:\刘延军\tools\QQ自动发消息\Unit1.pas=G:\刘延军\tools\QQ自动发消息\MainFrm.pas</Transaction>
+    <Transaction>2016/08/18 10:27:13.103.dfm,G:\刘延军\tools\QQ自动发消息\Unit1.dfm=G:\刘延军\tools\QQ自动发消息\MainFrm.dfm</Transaction>
+    <Transaction>2016/08/18 10:41:00.235.pas,G:\刘延军\tools\QQ自动发消息\Unit1.pas=G:\刘延军\tools\QQ自动发消息\HYUtils.pas</Transaction>
+    <Transaction>2016/08/18 10:43:10.121.pas,G:\刘延军\tools\QQ自动发消息\Unit1.pas=G:\刘延军\tools\QQ自动发消息\HYService.pas</Transaction>
+    <Transaction>2016/08/18 12:29:43.111.pas,G:\刘延军\tools\QQ自动发消息\Unit1.pas=G:\刘延军\tools\QQ自动发消息\HYConsts.pas</Transaction>
+    <Transaction>2016/08/18 15:09:51.404.bdsproj,G:\刘延军\tools\QQ自动发消息\Project1.bdsproj=G:\刘延军\tools\QQ自动发消息\HY.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
